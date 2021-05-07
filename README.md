@@ -1,8 +1,5 @@
 ### Hi, I'm Mathieu
 
-<!--
-**matbesancon/matbesancon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a researcher in mathematical optimization, working at the [Zuse Institute Berlin](https://www.zib.de).
 I'm interested in leveraging problem structure and developing methods for various classes of problems, including MI(N)LPs, convex optimization problems among others.
 Applications I have been interested in include various branches of engineering, power systems, and statistical learning.
